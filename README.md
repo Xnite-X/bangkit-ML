@@ -1,3 +1,1 @@
-# bangkit-ML
-### My journey to bangkit machine learning
-<strong>Learning Github</strong>
+I am editing the README file. Adding some more details about the project description.
